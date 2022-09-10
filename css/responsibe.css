@@ -1,0 +1,8 @@
+@media (min-width: 576px){
+   .Mobail{
+    
+    display: flex;
+    
+    justify-content: center;
+   }
+}
